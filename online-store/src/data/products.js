@@ -1,0 +1,86 @@
+const products = [
+  {
+    id: 1,
+    name: "Jonas™| Leinenhemd (1+1 GRATIS) - Grün / XL",
+    description:
+      "atmungsaktivem Stoff hält Sie an den heißesten Sommertagen trocken und komfortabel. ",
+    price: 59.99,
+    rating: 4.5,
+    image:
+      "https://i.pinimg.com/1200x/24/01/85/2401859c3f6d11708789e2393ee713f8.jpg",
+  },
+  {
+    id: 2,
+    name: "Man Shirts For Men",
+    description: `Ultimately, the "best" shirt is the one that makes you feel confident. If you are building a wardrobe from scratch`,
+    price: 99.99,
+    rating: 4.2,
+    image: "https://i.pinimg.com/736x/a0/a9/6f/a0a96fe07609e25b8e2d9db163e941e3.jpg",
+  },
+  {
+    id: 3,
+    name: "Zacht katoenen overhemd met streetfit",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/16/4d/eb/164deb21373c6c8556ecde8479f2cc6e.jpg",
+  },
+    {
+    id: 4,
+    name: "Men casual wear",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/30/6c/fb/306cfb884bddfbe4ab6af07f88a7ef39.jpg",
+  },
+    {
+    id: 5,
+    name: "Casual Solid Color Sweater ",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/99/28/4b/99284b94f2d6efaf467b2b89761a671d.jpg",
+  },
+    {
+    id: 6,
+    name: "The Men's Outfits",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/00/f6/d9/00f6d9439a9d95627ad09a472686698b.jpg",
+  },
+   {
+    id: 7,
+    name: "JMMSlmax Unisex Sweatsuits",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/a1/a5/9c/a1a59c187dc1e39820fa28c5e162cbb9.jpg",
+  },
+   {
+    id: 8,
+    name: "Essentials Hoodie",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/736x/2c/db/12/2cdb1257487dfb3d71d130e76c48ede7.jpg",
+  },
+   {
+    id: 9,
+    name: "Men Women Fitness Hoodies Sweatshirt",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/1200x/d9/79/28/d97928ca0c2fd4f34650a241a7db064d.jpg",
+  },
+   {
+    id: 10,
+    name: "ESSENTIAL",
+    description: "Dit shirt met lange mouwen is vervaardigd uit hoogwaardig katoen en voelt de hele dag door natuurlijk zacht en",
+    price: 39.99,
+    rating: 4.7,
+    image: "https://i.pinimg.com/736x/54/bb/9a/54bb9aceb2dbc705dd00213162b8c769.jpg",
+  },
+];
+
+export default products;
